@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E0H/FK4n4Jc=",
+  "dgSpecHash": "3LDAmLSKpzw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hidek\\OneDrive\\Desktop\\Selenium_Crud_Tarea4\\Selenium\\SeleniumTests\\SeleniumTests.csproj",
+  "projectFilePath": "C:\\Users\\hidek\\OneDrive\\Desktop\\CRUD de Usuarios\\Selenium-CRUD\\Selenium\\SeleniumTests\\SeleniumTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hidek\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\hidek\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
