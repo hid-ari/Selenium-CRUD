@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0H/FK4n4Jc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hidek\\OneDrive\\Desktop\\Selenium_Crud_Tarea4\\Selenium\\SeleniumTests\\SeleniumTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hidek\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\microsoft.testplatform.testhost\\17.12.0\\microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\nunit.analyzers\\4.4.0\\nunit.analyzers.4.4.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\selenium.support\\4.38.0\\selenium.support.4.38.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\selenium.webdriver.chromedriver\\142.0.7444.17500\\selenium.webdriver.chromedriver.142.0.7444.17500.nupkg.sha512",
+    "C:\\Users\\hidek\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
