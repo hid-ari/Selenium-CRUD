@@ -3,3 +3,6 @@ Desarrollar pruebas automatizadas sobre una aplicación o página web, utilizand
 
 Test HTML
 https://github.com/hid-ari/Selenium-CRUD/tree/014feed357071b2065d8b3623e5f396b98088813/Selenium/SeleniumTests/TestResults
+
+Capturas del test 
+https://github.com/hid-ari/Selenium-CRUD/tree/014feed357071b2065d8b3623e5f396b98088813/Selenium/SeleniumTests/bin/Debug/net9.0/TestResults/Screenshots
